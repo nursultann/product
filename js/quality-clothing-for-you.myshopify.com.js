@@ -1,0 +1,2 @@
+const trustpilot_trustbox_settings = {"trustboxes":[],"activeTrustbox":0,"pageUrls":{"landing":"https://quality-clothing-for-you.myshopify.com","category":"https://quality-clothing-for-you.myshopify.com/collections/jeans","product":"https://quality-clothing-for-you.myshopify.com/products/the-alec-trousers-black"}};
+dispatchEvent(new CustomEvent('trustpilotTrustboxSettingsLoaded'));
